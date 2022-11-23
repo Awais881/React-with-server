@@ -1,0 +1,23 @@
+{
+  "name": "react-with-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awais881/React-with-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awais881/React-with-server/issues"
+  },
+  "homepage": "https://github.com/Awais881/React-with-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
